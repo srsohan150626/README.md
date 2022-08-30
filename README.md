@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sohan.ice.pust@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18j8ZrLwAawzciczDn4NNpeihJz8_gpNB/view?usp=sharing](https://drive.google.com/file/d/18j8ZrLwAawzciczDn4NNpeihJz8_gpNB/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/srsohan150626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srsohan150626" height="30" width="40" /></a>
