@@ -10,9 +10,6 @@
           <li>Reach out to me <a href="#reach-me-out">using this link</a></li>
         </ul>
       </td>
-      <td>
-        <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" />
-      </td>
     </tr>
   </tbody>
 </table>
